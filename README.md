@@ -41,6 +41,14 @@ P.N.03 4K Texture Pack is a project that aims to enchance the images of P.N.03 o
     - Mission 10
     - Mission 11
 
+## Remaining UI/UX images:
+- Shop’s Suit Images.
+- Blackbird Suit Unlocked Screen.
+- Papillon Suit Unlocked Screen.
+- Transmission Easter Eggs.
+- Main Menu Papillon Suit Image.
+- Main Menu Blackbird Suit Image.
+- Trial Levels Results Screen and Thumbnails.
 
 ## Installation
 [Join our Discord server for support, discussions, and updates! 🚀](https://discord.gg/6sCNcn3FjV)
